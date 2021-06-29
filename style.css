@@ -1,0 +1,9 @@
+.comm {
+  font-size: 34px;
+  text-align: center;
+  background-color: #121826;
+  color: white;
+  font-weight: bold;
+  font-family: "Lobster", cursive;
+  margin-bottom: 2px;
+}
